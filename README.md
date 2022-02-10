@@ -1,4 +1,4 @@
-Hari Sekhon - DevOps Perl Tools
+Isaac Gazimbe - DevOps Perl Tools
 ===============================
 
 [![Codacy](https://app.codacy.com/project/badge/Grade/366f2da87b794566bbf194092752f25a)](https://www.codacy.com/gh/HariSekhon/DevOps-Perl-tools/dashboard)
@@ -108,11 +108,11 @@ See Also:
 
 repos which contains hundreds more scripts and programs for Cloud, Big Data, SQL, NoSQL, Web and Linux.
 
-Hari Sekhon
+Isaac Gszimbe
 
-Cloud & Big Data Contractor, United Kingdom
+Cloud & Big Data Contractor, Johanessburg
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/harisekhon/)
+[![My LinkedIn](https://www.linkedin.com/in/isaac-gazimbe-2154b015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfqwmHWlSQsCxrWg%2FUOEfcg%3D%3D)
 ###### (you're welcome to connect with me on LinkedIn)
 
 ##### Make sure you run ```make update``` if updating and not just ```git pull``` as you will often need the latest library submodule and possibly new upstream libraries
