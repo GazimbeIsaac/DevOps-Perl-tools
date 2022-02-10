@@ -108,7 +108,7 @@ See Also:
 
 repos which contains hundreds more scripts and programs for Cloud, Big Data, SQL, NoSQL, Web and Linux.
 
-Isaac Gszimbe
+Isaac Gazimbe
 
 Cloud & Big Data Contractor, Johanessburg
 
